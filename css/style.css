@@ -1,3 +1,74 @@
 * {
-  border: 1px solid black;
+  /* border: 1px dotted black; */
+}
+
+header, footer {
+  background-color: red;
+}
+
+body {
+  background-color: darkgray;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', sans-serif;
+}
+
+#nav-one {
+  float: right;
+  margin-top: 10px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  width: 50%;
+  text-align: center;
+}
+
+h1, h2, h3 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: blue;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+article {
+  float: left;
+  width: 33%;
+}
+
+section{
+  clear: both;
+}
+
+ul {
+  padding-right: 40px;
+  padding-left: 40px;
+}
+
+#logo {
+  margin: 10px 10px 10px 10px;
+}
+main {
+  height: 252px;
+  background-color: cadetblue;
+}
+footer {
+  margin-top: 20px;
+
+}
+img {
+  border: 2px solid red;
+}
+
+#li-vertical li {
+  display: block;
 }
