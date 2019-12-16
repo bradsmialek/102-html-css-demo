@@ -58,12 +58,11 @@ ul {
   margin: 10px 10px 10px 10px;
 }
 main {
-  height: 252px;
+  overflow: hidden;
   background-color: cadetblue;
 }
 footer {
   margin-top: 20px;
-
 }
 img {
   border: 2px solid red;
