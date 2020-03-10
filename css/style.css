@@ -1,8 +1,8 @@
-html, body {
+/* html, body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}
+} */
 
 header {
   background-color: hsl(230, 42%, 45%);
@@ -59,6 +59,7 @@ ul {
 
 #logo {
   margin: 10px 10px 10px 10px;
+  border-radius: 10px;
 }
 
 main {
@@ -75,7 +76,7 @@ img {
   border: 2px solid red;
 }
 
-#li-vertical li {
+.li-vertical li {
   display: block;
   text-align: center;
 }
@@ -95,4 +96,8 @@ span {
   font-size: 400%;
   font-family: algerian, courier;
   line-height: 80%;
+}
+
+a:hover {
+  color: orange;
 }

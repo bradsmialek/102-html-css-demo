@@ -1,12 +1,18 @@
 
 <!-- header -->
-# Markdown
+# A
+## A
+### A  
+#### A  
+##### A
+###### A
 
+<!-- escape character -->
+ hello's aren't welcome
 
 <!-- paragraphs and white space, two ways -->
-<!-- two spaces or a single line of white spce -->
-Can you create a line after this sentence.
-Did it work, or am I on the same line as the first sentence?
+<!-- two spaces or a single line of white space -->
+Can you create a line after this sentence. Did it work, or am I on the same line as the first sentence?
 
 <!-- checklist -->
 - [x] Mercury
@@ -20,22 +26,29 @@ Did it work, or am I on the same line as the first sentence?
 - [ ] Comet Haley
 
 <!-- unordered list -->
-* get lunch
 * get dinner
+- breakfast
++ brunch
 
 <!-- ordered list -->
 1. get lunch
 1. get dinner
+1. breakfast
+1. break
 
-<!-- italic -->
-_this is italics_
+<!-- italicize -->
+_this is italics_  
+*also italicize*
 
 <!-- bold -->
-**bold**
+**bold**  
+__bold__
 
-
+<!-- bold and italicize -->
+**_whatever_**
 
 <!-- image -->
+
 ![lunch](https://www.thegraciouspantry.com/wp-content/uploads/2018/08/clean-eating-lunch-box-burritos-h-3-.jpg)
 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
@@ -43,6 +56,8 @@ _this is italics_
 ![Black cat][Black]
 
 [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
+
+[1]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
 
 
 <!-- link -->
@@ -99,10 +114,10 @@ alt="Dog" width="240" height="180" border="10" /></a>
 
 [![Dog](https://img.youtube.com/vi/3dcli9i_pvA/0.jpg)](http://www.youtube.com/watch?v=3dcli9i_pvA)
 
-# Github
+<!-- emojis -->
+:blush:
 
-## Github
----
+# Github
 
 - cloud storage of repos
 - open source(code) community

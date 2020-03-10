@@ -1,6 +1,6 @@
- What do you remeber
+ What do you remember?
 
- ide  integrated develoment environment
+ ide  integrated development environment
 
  debugger
  auto complete
@@ -12,11 +12,38 @@
  editing features
 references external material
 
-Terminal  gui
+Terminal is/can:
 
-efficiency faster
+efficiency -faster
+increased productivity
 power scripting 
 chaining commands
 customization
 control
 use with Git 
+
+
+Reading - Structure pages with HTML
+Web development process
+
+  -who
+    -a target audience based on demographics
+
+  -What
+    - designing for targeted purpose
+    - components for different things on the site
+    -sitemap
+    -navigation
+    -about describes the company
+    -prioritize design elements
+    -images
+    -copywriter to provide content
+    metrics
+    -logos
+    -code
+
+  -why
+    - planning is important
+    understand the customer
+    budget, scope
+
